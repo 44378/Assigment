@@ -12,4 +12,4 @@ area_inner = length2*width2
 
 cost_inner = area_inner*10
 
-print("The area of your garden in total is {0} metres squared, the cost of turfing this area with a 1 metre internal border is {1}".format(area1,cost_inner))
+print("The area of your garden in total is {0} metres squared, the cost of turfing this area with a 1 metre internal border is £{1}".format(area1,cost_inner))
