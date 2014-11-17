@@ -1,0 +1,13 @@
+Jack Scaife
+31/10/14
+Squaring from range - Plan
+
+count = 0
+
+GET	end
+	"Please enter a number for which the leading numbers will be shown as well as their square: "
+
+WHILE count < end + 1
+	count_sq = count * count
+	OUTPUT	count " squared is " count_sq
+	count = count + 1

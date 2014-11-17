@@ -1,0 +1,29 @@
+Jack Scaife 
+31/10/14 
+Rogue cancel for addition - Test Data
+
+Boundry:
+
+	Inputs		:1		-1		0
+
+	Expected Output	:				0
+
+	Actual Output	:				1
+
+	
+
+Working:
+
+	Inputs		:1		2		3		0
+
+	Expected Output	:						6
+
+	Actual Output	:						6
+
+
+Erroneous:
+	Inputs:		Hello World
+
+	Expected Output:Value error
+
+	Actual Output:	Value error

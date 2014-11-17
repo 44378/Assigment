@@ -1,0 +1,28 @@
+Jack Scaife 
+31/10/14 
+Password exp - Test Data
+
+
+Boundry:N/A due to required string
+
+	Inputs		:
+
+	Expected Output	:
+
+	Actual Output	:
+
+Working:
+
+	Inputs		:activate					Hello World
+
+	Expected Output	:"You entered activate", "This is a valid"	"Re-enter correct password"
+
+	Actual Output	:"You entered activate", "This is a valid"	"Re-enter correct password"
+
+
+Erroneous:N/A due to required value being a string
+	Inputs:		:5
+
+	Expected Output	:"Re-enter correct password"
+
+	Actual Output	:"Re-enter correct password"

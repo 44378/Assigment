@@ -1,0 +1,21 @@
+Jack Scaife
+31/10/14
+Squaring from range - Test Data
+
+Boundry: N/A Due to no boundaries
+
+
+
+Working:
+	Input		:3
+	Expected Output	:"1 squared is 1","2 squared is 4","3 squared is 9"
+	Actual Output	:"1 squared is 1","2 squared is 4","3 squared is 9"
+
+
+
+Erroneous:
+	Inputs:		Hello World
+
+	Expected Output:Value error
+
+	Actual Output:	Value error

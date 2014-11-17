@@ -1,0 +1,27 @@
+Jack Scaife
+25/10/14
+Repeating selection - Test data
+
+
+
+Boundry: N/A Due to no boundaries
+	
+
+Working:
+
+	Inputs:		Hellow World, 3
+
+	Expected Output:Hellow World
+			Hellow World
+			Hellow World
+
+	Actual Output:	Hellow World
+			Hellow World
+			Hellow World
+
+Erroneous:
+	Inputs:		Hellow, World
+
+	Expected Output:Data Type error
+
+	Actual Output:	Data Type error

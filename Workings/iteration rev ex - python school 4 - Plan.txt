@@ -1,0 +1,14 @@
+Jack Scaife 
+31/10/14 
+Rogue cancel for addition - Plan
+
+total = 0
+GET	value
+	"Enter a number to add to the total: "
+
+WHILE value > 0
+	GET	value
+		"Enter a number to add to the total: "
+		total = total + value
+
+OUTPUT "The total is " total

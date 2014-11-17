@@ -1,0 +1,14 @@
+Jack Scaife
+25/10/14
+Repeating selection - Plan
+
+count = 0
+
+GET	message
+	"Please enter a message to be repeated: "
+GET	amount
+	"Please enter the amount of times for the message to be repeated: "
+
+WHILE count < amount
+	OUTPUT message
+	count = count + 1

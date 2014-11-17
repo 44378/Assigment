@@ -1,0 +1,15 @@
+Jack Scaife 
+31/10/14 
+Password exp - Plan
+
+invalid = True
+WHILE invalid
+	GET	password
+		"Please enter the password: "
+	IF password == activate
+		invalid - False
+	ELSE
+		OUTPUT "Re-enter correct password"
+
+OUTPUT	"You entered " password
+OUTPUT	"This is a valid"

@@ -1,0 +1,9 @@
+Jack Scaife
+25/10/14
+Multiplication Table - Plan
+
+GET	target
+	"Please enter a number to recieve it's times table up to 10: "
+
+FOR count IN RANGE 1,11
+	OUTPUT	count * target
